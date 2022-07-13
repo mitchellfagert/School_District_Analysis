@@ -8,9 +8,9 @@ Using the data provided, I have identified and calculated the following metrics:
 - Average student Math/Reading Score by **District**
 - Average student Math/Reading Score by **District**
 - Percentage of students passing both Math & Reading by **District** (See "% Overall Passing")
-- Average student Math/Reading Score by **School**
-- Percentage of students passing Math/Reading by **School**
-- Percentage of students passing both Math & Reading by **School** (See "% Overall Passing")
+- Average student Math/Reading Score at **Thomas High School**
+- Percentage of students passing Math/Reading by **Thomas High School**
+- Percentage of students passing both Math & Reading by **Thomas High School** (See "% Overall Passing")
 
 For each metric listed above I have recalculated the metrics to nullify all math and reading scores for the 9th grade class of Thomas High School. Then I compared this recalculation to the original metrics to better understand the impact of the new information and provide more value to the School Board for their decision making process.
 
@@ -20,6 +20,18 @@ For each metric listed above I have recalculated the metrics to nullify all math
 
   The School District showed a broad drop in all metrics once the new information was taken into account. (see data below)
   
+  Original
   
+  
+  Updated
   
   Both the Average Math and % of Passing Math score dropped. Leaving a negative impact on the % of Overall Passing for the school district.
+
+2. Thomas High School
+
+  Thomas High Schools metrics dropped significantly. Below you can see the affect of ommitting the 9th Grade's metrics.
+  
+  Original
+  
+  
+  Updated
