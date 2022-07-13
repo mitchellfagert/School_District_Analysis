@@ -21,19 +21,27 @@ For each metric listed above I have recalculated the metrics to nullify all math
   The School District showed a broad drop in all metrics once the new information was taken into account. (see data below)
   
   Original
+  
   ![Original_District_Results](https://user-images.githubusercontent.com/107579508/178808751-3dd89947-8fed-49b2-8a86-6e48479628a2.png)
   
   Updated
+  
   ![Updated_District_Metrics](https://user-images.githubusercontent.com/107579508/178808707-9e8acdc8-4936-4c8f-a4ce-36b7b30acb44.png)
   
   Both the Average Math and % of Passing Math score dropped. Leaving a negative impact on the % of Overall Passing for the school district.
 
-2. Thomas High School
+2. Thomas High School Results & Impact
 
   Thomas High Schools metrics dropped significantly. Below you can see the affect of ommitting the 9th Grade's metrics.
   
   Original
+  
   ![Original_THS_Results](https://user-images.githubusercontent.com/107579508/178809095-087310bb-d70f-42ed-be47-926d3b5a5f2f.png)
   
   Updated
   
+  ![Updated_THS_Results](https://user-images.githubusercontent.com/107579508/178810607-e4e35810-98d8-4ee7-b5df-b1eedfadb852.png)
+  
+  ## Summary
+  
+  Accounting for and nullifying the math & reading scores of all the 9th Grade students of Thomas High School negatively impacted their reading and math metrics which contributed to a district wide drop in scores. 
