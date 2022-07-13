@@ -44,4 +44,4 @@ For each metric listed above I have recalculated the metrics to nullify all math
   
   ## Summary
   
-  Accounting for and nullifying the math & reading scores of all the 9th Grade students of Thomas High School negatively impacted their reading and math metrics which contributed to a district wide drop in scores. 
+  Accounting for and nullifying the math & reading scores of all the 9th Grade students of Thomas High School negatively impacted overall passing metrics which contributed to a district wide drop in scores. The School Board will have to further weigh this impact in their decision to provide future funding as well as determine a solution for more reliabile data for future analyses. 
