@@ -21,9 +21,10 @@ For each metric listed above I have recalculated the metrics to nullify all math
   The School District showed a broad drop in all metrics once the new information was taken into account. (see data below)
   
   Original
-  
+  ![Original_District_Results](https://user-images.githubusercontent.com/107579508/178808751-3dd89947-8fed-49b2-8a86-6e48479628a2.png)
   
   Updated
+  ![Updated_District_Metrics](https://user-images.githubusercontent.com/107579508/178808707-9e8acdc8-4936-4c8f-a4ce-36b7b30acb44.png)
   
   Both the Average Math and % of Passing Math score dropped. Leaving a negative impact on the % of Overall Passing for the school district.
 
@@ -35,3 +36,4 @@ For each metric listed above I have recalculated the metrics to nullify all math
   
   
   Updated
+  ![Updated_THS_Results](https://user-images.githubusercontent.com/107579508/178808859-d829d19d-6aa4-4cc8-98f3-ca5c61eb1ad7.png)
